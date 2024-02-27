@@ -1,0 +1,17 @@
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_BLL.deps.json
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_BLL.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_BLL.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_DAL.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_DAL.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\bin\Debug\net7.0\ShineNDrive_DTO.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.csproj.AssemblyReference.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.AssemblyInfoInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.AssemblyInfo.cs
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.csproj.CoreCompileInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.csproj.CopyComplete
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\refint\ShineNDrive_BLL.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ShineNDrive_BLL.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.BLL\obj\Debug\net7.0\ref\ShineNDrive_BLL.dll

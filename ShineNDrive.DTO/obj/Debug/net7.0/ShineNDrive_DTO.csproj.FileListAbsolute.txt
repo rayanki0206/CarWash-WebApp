@@ -1,0 +1,12 @@
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive_DTO.deps.json
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive_DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive_DTO.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.csproj.AssemblyReference.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.AssemblyInfoInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.AssemblyInfo.cs
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.csproj.CoreCompileInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\refint\ShineNDrive_DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive_DTO.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ref\ShineNDrive_DTO.dll

@@ -1,0 +1,11 @@
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive.DTO.deps.json
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive.DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\bin\Debug\net7.0\ShineNDrive.DTO.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.AssemblyInfoInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.AssemblyInfo.cs
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.csproj.CoreCompileInputs.cache
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\refint\ShineNDrive.DTO.dll
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ShineNDrive.DTO.pdb
+D:\3-Tier Practice\ShineNDrive\ShineNDrive.DTO\obj\Debug\net7.0\ref\ShineNDrive.DTO.dll
